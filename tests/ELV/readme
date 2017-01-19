@@ -1,0 +1,4 @@
+Test suite for different ELV WS2000-compatible sensors.
+
+01 : AS 2000, outdoor temp-only battery sensor
+02 : S 2000 I, indoor temp/hygro battery sensor
